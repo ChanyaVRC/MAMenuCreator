@@ -62,3 +62,9 @@ crashlytics-build.properties
 Assets/PackageMakerWindowData.asset*
 .idea
 .vscode
+
+/Assets/*
+!/Assets/.gitkeep
+/ProjectSettings/*
+!/ProjectSettings/.gitkeep
+/UserSettings/
