@@ -38,7 +38,7 @@ namespace BuildSoft.Unity.Tools
                     if (GUILayout.Button("MA", GUILayout.Width(30)))
                     {
                         var menu = _avatar.GetMenuGameObject();
-                        CreateObjectToggleMenu(item, menu);
+                        CreateObjectToggleMenu(menu, item);
                     }
                 }
             }
