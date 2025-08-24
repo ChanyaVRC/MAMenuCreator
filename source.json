@@ -1,0 +1,23 @@
+{
+  "name": "Menu Creator Package Listing",
+  "id": "com.chanya.menu-creator.listing",
+  "url": "https://vrchat-community.github.io/template-package-listing/index.json",
+  "author": {
+    "name": "Chanya Kushima",
+    "email": "vrchat@chanya.jp"
+  },
+  "description": "Menu Creator Package Listing",
+  "infoLink": {
+    "url": "https://github.com/ChanyaVRC/MAMenuCreator",
+    "text": "View on GitHub"
+  },
+  "githubRepos": ["ChanyaVRC/MAMenuCreator"],
+  "packages": [
+    {
+      "name": "com.chanya.menu-creator",
+      "releases": [
+        "https://github.com/ChanyaVRC/MAMenuCreator/releases/download/0.3.1/com.chanya.menu-creator-0.3.1.zip"
+      ]
+    }
+  ]
+}
