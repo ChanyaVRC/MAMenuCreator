@@ -2,7 +2,7 @@
     "name": "BuildSoft.Unity.Tools.MAMenuCreator.Runtime",
     "rootNamespace": "",
     "references": [
-        "GUID:fe747755f7b44e048820525b07f9b956"
+        "nadena.dev.ndmf.runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
