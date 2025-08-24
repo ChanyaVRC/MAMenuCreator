@@ -16,6 +16,7 @@
     {
       "name": "com.chanya.menu-creator",
       "releases": [
+        "https://github.com/ChanyaVRC/MAMenuCreator/releases/download/0.3.2/com.chanya.menu-creator-0.3.2.zip",
         "https://github.com/ChanyaVRC/MAMenuCreator/releases/download/0.3.1/com.chanya.menu-creator-0.3.1.zip"
       ]
     }
